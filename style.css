@@ -1,0 +1,52 @@
+/* .hello{
+  color: red;
+  background-color: aqua;
+}
+
+.btn{
+  color: black;
+  background-color: yellow;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 2px solid black;
+  margin: 10px;
+  
+}
+.pp{
+  font-size: 1.5rem;
+  color: wheat;
+} */
+
+
+.resume{
+  background-color: #c7dae3;  
+  /* color: white; */
+  height: 100%;
+  width: 70vw;
+  padding-left: 20px;
+  margin: auto;
+
+}
+
+.head{
+  text-align: center;
+  padding: 10px;
+  justify-content: center;
+}
+.career-object{
+  justify-content: center;
+}
+
+.underline{
+  height: 4px;
+  /* background-color: rgb(255, 238, 238); */
+  background-color: black;
+}
+.education .cgpa{
+  /* display: flex;
+  justify-content: right; */
+  margin-left: 600px;
+}
+.btech-cgpa{
+  margin-left: 400px;
+}
